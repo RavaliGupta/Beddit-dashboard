@@ -1,1 +1,5 @@
-
+First install node js with npm package manager.
+Then install the express server using the command line. 
+once installations are done, open the project through webstrom IDE and run the express server js file.The server start listening at port 80.
+Now opne the beddit login page through the browser provided by the IDE. 
+Tada!! It works like magic :)
