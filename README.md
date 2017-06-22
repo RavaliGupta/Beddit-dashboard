@@ -1,2 +1,2 @@
 # Beddit-dashboard
-An interactive dashboard for beddit sleep tracker
+An interactive and user friendly dashboard for Beddit sleep tracker.
